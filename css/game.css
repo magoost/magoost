@@ -1,0 +1,39 @@
+.mainHeader{
+    text-align: center;
+   
+}
+
+canvas {
+    background: #eee;
+    display: block;
+    margin: 0 auto;
+    border: 2px solid black;
+    padding-bottom: 1px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.myNav li{
+    list-style:none;
+    display: inline;
+    
+}
+
+.myNav p{
+    font-size: 20px;
+}
+.myNav{
+    text-align: center;
+    display: table;
+    margin: 0 auto;   
+}
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#mozillaLink{
+    margin-top: 100px auto;
+}
